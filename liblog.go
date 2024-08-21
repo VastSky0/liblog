@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/aztecrabbit/libutils"
+	"github.com/VastSky0/libutils"
 	"github.com/buger/goterm"
 )
 
