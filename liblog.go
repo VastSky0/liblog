@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/VastSky0/libutils"
-	"github.com/VastSky0/goterm"
+	"github.com/buger/goterm"
 )
 
 var (
